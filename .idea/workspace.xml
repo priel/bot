@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9762e045-e7ea-4469-abb9-5294113f1cec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/html_magnager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#557#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/sex_bot.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>first_url</find>
+      <find>story_list</find>
+      <find>base</find>
+      <find>find</find>
+      <find>cate</find>
+      <find>story</find>
+      <find>print</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Priel\PycharmProjects\sex_bot\venv\Scripts</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/withHeaders.txt" />
+        <option value="$PROJECT_DIR$/venv/html_magnager.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sex_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sex_bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sex_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sex_bot" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sex_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sex_bot" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sex_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/sex_bot.iml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.html_magnager">
+    <configuration name="withHeaders.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sex_bot/venv/withHeaders.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="html_magnager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sex_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/html_magnager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.html_magnager" />
+        <item itemvalue="JavaScript Debug.withHeaders.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9762e045-e7ea-4469-abb9-5294113f1cec" name="Default Changelist" comment="" />
+      <created>1569638514092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569638514092</updated>
+      <workItem from="1569638526701" duration="7326000" />
+      <workItem from="1569963255234" duration="2385000" />
+      <workItem from="1570225621978" duration="3621000" />
+      <workItem from="1570602103349" duration="6664000" />
+      <workItem from="1570733642975" duration="16445000" />
+      <workItem from="1570979495190" duration="4535000" />
+      <workItem from="1571218051341" duration="9713000" />
+      <workItem from="1571350325489" duration="1850000" />
+      <workItem from="1571520024492" duration="45875000" />
+      <workItem from="1573671247933" duration="1816000" />
+      <workItem from="1573884733080" duration="1515000" />
+      <workItem from="1575981002314" duration="332000" />
+      <workItem from="1576046958790" duration="1721000" />
+      <workItem from="1576080108447" duration="2764000" />
+      <workItem from="1576586026415" duration="3920000" />
+      <workItem from="1576668173398" duration="2089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112571000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21002132" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sex_bot$html_magnager.coverage" NAME="html_magnager Coverage Results" MODIFIED="1576085316161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/withHeaders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="190" selection-start-column="44" selection-end-column="190" />
+          <folding>
+            <element signature="n#style#0;n#IMG#0;n#A#0;n#TD#0;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#1;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#NOSCRIPT#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#5382#5387#0" expanded="true" />
+            <element signature="e#6593#6598#0" expanded="true" />
+            <element signature="e#6773#6778#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#1;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#2;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#INPUT#0;n#SPAN#0;n#DIV#3;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#0;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#1;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#2;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#3;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#4;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#5;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#6;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#7;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#8;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#9;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#10;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#11;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#12;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#13;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#14;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#15;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#16;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#17;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#OPTION#18;n#SELECT#0;n#SPAN#0;n#DIV#4;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#5;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#6;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#8;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#INPUT#0;n#SPAN#0;n#DIV#0;n#DIV#8;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#1;n#DIV#8;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#9;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#10;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#11;n#FORM#0;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#B#0;n#DIV#1;n#DIV#0;n#DIV#0;n#TD#1;n#TR#1;n#TABLE#0;n#TD#1;n#TR#0;n#TABLE#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#IMG#0;n#DIV#3;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#4;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#IFRAME#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/withHeaders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30039" lean-forward="true" selection-start-column="30039" selection-end-column="30039" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/html_magnager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#557#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sex_bot.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
